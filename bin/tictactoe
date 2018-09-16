@@ -18,4 +18,3 @@ until play_again.downcase == "n" || play_again.downcase == "no"
     game.play
   end
 end
-end
